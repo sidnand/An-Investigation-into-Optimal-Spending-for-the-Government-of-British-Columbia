@@ -1,0 +1,7 @@
+*.gdoc
+*.gsheet
+.ipynb_checkpoints
+.DS_Store
+~$*
+MATH 340 Project Proposal Revised.pdf
+MATH_340_Project.pdf
